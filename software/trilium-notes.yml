@@ -1,6 +1,6 @@
-name: Trilium Notes
-website_url: https://github.com/zadam/trilium
-description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+name: TriliumNext Notes
+website_url: https://github.com/TriliumNext/Notes
+description: TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
 tags:
   - Note-taking & Editors
-source_code_url: https://github.com/zadam/trilium
-stargazers_count: 28598
-updated_at: '2024-05-30'
+source_code_url: https://github.com/TriliumNext/Notes
+stargazers_count: 2354
+updated_at: '2025-05-10'
 archived: false
